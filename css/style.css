@@ -3,7 +3,7 @@
  ======================================================================== 
  * Project   : nike(nike) v0.0.1
  * Publisher : sscho (css6272@gmail.com), (http://sscho.co.kr)
- * Build     : 2015-06-04
+ * Build     : 2015-06-05
  * License   : CC BY-ND (http://creativecommons.org/licenses/by/2.0/kr/)
  ======================================================================== 
  */
@@ -315,6 +315,3 @@ a:focus {
 .main {
   background-color: #ddd;
 }
-
-
-#footer {width:100%;}

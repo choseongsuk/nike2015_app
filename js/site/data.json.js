@@ -1,1 +1,0 @@
-{'title':'javsscript', 'author':sscho}
